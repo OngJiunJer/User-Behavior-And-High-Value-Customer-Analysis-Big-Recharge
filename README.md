@@ -38,7 +38,7 @@
 
 ## Other Files
 - `12 月大额充值会员特征_V2.pbix`: Power BI file showing dashboards and insights
-- `12 月大额充值会员特征_Dashboard`: Dashboard in pdf format. You can "👉 [Download / View PDF](12 月大额充值会员特征_Dashboard.pdf)"
+- `12 月大额充值会员特征_Dashboard`: Dashboard in pdf format. You can 👉 [Download / View PDF](Dashboard.pdf)
 - `会员明细表.csv`: Dataset containing user details
 - `充值底表.csv`: Dataset containing user recharge history
 - `活动明细表.csv`: Dataset containing user activity history
