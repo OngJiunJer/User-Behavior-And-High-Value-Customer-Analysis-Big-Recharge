@@ -1,4 +1,4 @@
-# Data-Analyst-Big-Recharger-User-Characteristic
+# User Behavior & High-Value Customer Analysis 
 
 ## Main.py
 - This file is the **entry point** of the project.  
